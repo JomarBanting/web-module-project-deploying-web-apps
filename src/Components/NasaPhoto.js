@@ -13,8 +13,8 @@ const NasaPhoto = (props) => {
             </a>
             <p className="explanation">{props.photo.explanation}</p>
             <nav>
-                <a href="https://api.nasa.gov/">Nasa API website</a>
-                <a href="https://github.com/JomarBanting">Jomar Banting ~github~</a>
+                <a href="https://api.nasa.gov/">Nasa API website  ~  </a>
+                <a className="jomar" href="https://github.com/JomarBanting/web-module-project-deploying-web-apps">Github</a>
             </nav>
         </div>
     );
