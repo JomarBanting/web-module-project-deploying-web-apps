@@ -14,6 +14,7 @@ const NasaPhoto = (props) => {
             <p className="explanation">{props.photo.explanation}</p>
             <nav>
                 <a href="https://api.nasa.gov/">Nasa API website</a>
+                <a href="https://github.com/JomarBanting">Jomar Banting ~github~</a>
             </nav>
         </div>
     );
